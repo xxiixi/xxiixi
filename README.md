@@ -2,9 +2,11 @@
 
 I'm a **Master's student in Computer Science**, current learning how to become a **front-end engineer**. <img src="assets/yiji_lay.GIF" width="50">
 
-- 🎯 have experience with **Vue.js** and modern front-end technologies.
-- 📚 Continuously expanding my knowledge beyond front-end.
+- 🎯 Hands-on experience with **Vue.js** and **React** projects, familiar with **visualization tools** and **Element Plus**.
+- 🎨 Have some PM experience and feel comfortable creating prototypes using **Figma** and **Axure**.
+- 📚 Continuously exploring new and unknown areas of **computer science**.
 - 🔎 Looking for **front-end internship opportunities**.
+- 💗 **Love cute things and cats**.
 
 ---
 
@@ -19,7 +21,7 @@ I'm a **Master's student in Computer Science**, current learning how to become a
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)<img src="assets/yiji_fight.GIF" width="50">
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxiixi&theme=ocean-gradient&hide_border=true&border_radius=40&card_width=585&card_height=190)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxiixi&theme=ocean-gradient&hide_border=true&border_radius=15&card_width=585&card_height=190)](https://git.io/streak-stats)
 
 
 ### 📫 Connect with Me:
