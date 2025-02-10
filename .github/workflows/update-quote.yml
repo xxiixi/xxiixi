@@ -1,0 +1,29 @@
+name: Update Quote in README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天 UTC 0 点运行一次（
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Random Quote
+        run: |
+          QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content + " - " + .author')
+          echo "QUOTE=$QUOTE" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- QUOTE START -->/,/<!-- QUOTE END -->/c\<!-- QUOTE START -->\n> \"$QUOTE\"\n<!-- QUOTE END -->' README.md
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated daily quote"
+          branch: main
