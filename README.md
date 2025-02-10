@@ -19,7 +19,7 @@ I'm a **Master's student in Computer Science**, learning how to become a **front
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)<img src="assets/yiji_fight.GIF" width="40">
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)<img src="assets/yiji_fight.GIF" width="50">
 
 ---
 
@@ -34,4 +34,6 @@ I'm a **Master's student in Computer Science**, learning how to become a **front
 
 🚀 **Blog:** _Currently in development!_
 
-<img src="assets/8_happy.GIF" width="40"> **{ Happy coding! }**<img src="assets/wusaqi_courage.GIF" width="50">
+---
+
+<img src="assets/8_happy.GIF" width="50"> **{ Happy coding ! }** <img src="assets/wusaqi_courage.GIF" width="50">
