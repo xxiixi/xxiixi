@@ -2,15 +2,10 @@
 
 I'm a **Master's student in Computer Science**,  learning how to become a **front-end engineer**. 
 
-<!-- QUOTE START -->
-> "$QUOTE"
-<!-- QUOTE END -->
-
 ---
 
 ### 🚀 About Me:
 - 🎯 have experience with **Vue.js** and modern front-end technologies.
-- 💡 Building projects to solidify my understanding.
 - 📚 Continuously expanding my knowledge beyond front-end.
 - 🔎 Looking for **front-end internship opportunities**.
 
