@@ -2,6 +2,10 @@
 
 I'm a **Master's student in Computer Science**,  learning how to become a **front-end engineer**. 
 
+<!-- QUOTE START -->
+> "quote here"
+<!-- QUOTE END -->
+
 ---
 
 ### 🚀 About Me:
