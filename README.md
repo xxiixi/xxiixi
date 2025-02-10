@@ -24,7 +24,7 @@ I'm a **Master's student in Computer Science**, learning how to become a **front
 ---
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxiixi&theme=cobalt&border_radius=15&card_width=550&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xxiixi&theme=sunset-gradient&hide_border=true&border_radius=15&card_width=550&card_height=200)](https://git.io/streak-stats)
 
 ---
 
