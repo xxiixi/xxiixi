@@ -6,7 +6,6 @@ I'm a **Master's student in Computer Science**, current learning how to become a
 - 🎨 Have some PM experience and feel comfortable creating prototypes using **Figma** and **Axure**.
 - 📚 Continuously exploring new and unknown areas of **computer science**.
 - 🔎 Looking for **front-end internship opportunities**.
-- 💗 **Love cute things and cats**.
 
 ---
 
@@ -27,7 +26,6 @@ I'm a **Master's student in Computer Science**, current learning how to become a
 [![Email](https://img.shields.io/badge/-Edu%20Email-4285F4?style=flat&logo=googlescholar&logoColor=white)](mailto:xwang3234@garech.edu)
 [![Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:scyxw5@gmail.com)
 
-🚀 **Blog:** _Currently in development!_
 
 ---
 
