@@ -1,12 +1,11 @@
-### Hi there, I'm xxiixi! 👋 
+### Hi there, I'm xxiixi! <img src="assets/yiji_lay.GIF" width="50">
 
-I'm a **Master's student in Computer Science**, current learning how to become a **front-end engineer**. <img src="assets/yiji_lay.GIF" width="50">
+I'm a **Master's student in Computer Science**, current learning how to become a **front-end engineer**. 
 
 - 🎯 Hands-on experience with **Vue.js** and **React** projects, familiar with **visualization tools** and **Element Plus**.
 - 🎨 Have some PM experience and feel comfortable creating prototypes using **Figma** and **Axure**.
 - 📚 Continuously exploring new and unknown areas of **computer science**.
 - 🔎 Looking for **front-end internship opportunities**.
-- 🐱 Love cats.
 
 ---
 
