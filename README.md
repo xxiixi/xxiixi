@@ -25,6 +25,7 @@ I'm a **Master's student in Computer Science**, current learning how to become a
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Edu%20Email-4285F4?style=flat&logo=googlescholar&logoColor=white)](mailto:xwang3234@garech.edu)
 [![Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:scyxw5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xi-wang-432293210)
 
 ---
 
