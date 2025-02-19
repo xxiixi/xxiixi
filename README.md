@@ -1,6 +1,6 @@
-### Hi there, I'm xxiixi! <img src="assets/yiji_lay.GIF" width="50">
+### Hi there, I'm Jennie from China!  <img src="assets/yiji_lay.GIF" width="50">
 
-I'm a **Master's student in Computer Science**, current learning how to become a **Front-end Engineer**. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&duration=4000&pause=1000&width=600&height=35&lines=%E2%9C%A8+A+Master's+student+in+Computer+Science.+%E2%9C%A8;%F0%9F%92%97+Learning+to+become+a+Front-end+Dev+Engineer.+%F0%9F%92%97)](https://git.io/typing-svg)
 
 - 🎯 Hands-on experience with **Vue.js** and **React** projects, familiar with **Visualization tools** and **Element Plus**.
 - 🎨 Have some PM experience and feel comfortable creating prototypes using **Figma** and **Axure**.
