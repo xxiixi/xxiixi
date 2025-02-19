@@ -5,7 +5,7 @@ I'm a **Master's student in Computer Science**, current learning how to become a
 - 🎯 Hands-on experience with **Vue.js** and **React** projects, familiar with **visualization tools** and **Element Plus**.
 - 🎨 Have some PM experience and feel comfortable creating prototypes using **Figma** and **Axure**.
 - 📚 Continuously exploring new and unknown areas of **computer science**.
-- 🔎 Looking for **front-end internship opportunities**.
+- 🔎 Currently preparing for **GSoC 2025** and **front-end summer internships**.
 
 ---
 
