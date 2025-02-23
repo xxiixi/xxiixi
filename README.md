@@ -1,4 +1,4 @@
-### Hi there, I'm Jennie from China!  <img src="assets/yiji_lay.GIF" width="50">
+### Hi there, I'm Xi WANG! <img src="assets/yiji_lay.GIF" width="50">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&duration=4000&pause=1000&width=600&height=35&lines=%E2%9C%A8+A+Master's+student+in+Computer+Science.+%E2%9C%A8;%F0%9F%92%97+Learning+to+become+a+Front-end+Dev+Engineer.+%F0%9F%92%97)](https://git.io/typing-svg)
 
