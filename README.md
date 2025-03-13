@@ -28,6 +28,3 @@
 [![Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:scyxw5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xi-wang-432293210)
 
----
-
-<img src="assets/8_happy.GIF" width="50"> **{ Happy coding ! }** <img src="assets/wusaqi_courage.GIF" width="50">
