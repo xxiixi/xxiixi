@@ -5,7 +5,6 @@
 - 🎯 Hands-on experience with **Vue.js** and **React** projects, familiar with **Visualization tools** and **Element Plus**.
 - 🎨 Have some PM experience and feel comfortable creating prototypes using **Figma** and **Axure**.
 - 📚 Continuously exploring new and unknown areas of **Computer Science**.
-- 🔎 Currently preparing for **IELTS** and **Front-end Summer Internships**.
 
 ---
 
