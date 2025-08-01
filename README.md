@@ -1,10 +1,6 @@
-### Hi there, I'm Xi WANG! <img src="assets/yiji_lay.GIF" width="50">
+### Hi there, I'm Cecilia! <img src="assets/yiji_lay.GIF" width="50">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&duration=4000&pause=1000&width=600&height=35&lines=%E2%9C%A8+A+Master's+student+in+Computer+Science.+%E2%9C%A8;%F0%9F%92%97+Learning+to+become+a+Front-end+Dev+Engineer.+%F0%9F%92%97)](https://git.io/typing-svg)
-
-- 🎯 Hands-on experience with **Vue.js** and **React** projects, familiar with **Visualization tools** and **Element Plus**.
-- 🎨 Have some PM experience and feel comfortable creating prototypes using **Figma** and **Axure**.
-- 📚 Continuously exploring new and unknown areas of **Computer Science**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&duration=4000&pause=1000&width=600&height=35&lines=A+Master's+student+in+Computer+Science.;Learning+to+become+a+Front-end+Dev+Engineer.)](https://git.io/typing-svg)
 
 ---
 
