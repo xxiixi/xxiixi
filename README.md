@@ -2,7 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sigmar&duration=4000&pause=1000&width=600&height=35&lines=A+Master's+student+in+Computer+Science.;Learning+to+become+a+Front-end+Dev+Engineer.)](https://git.io/typing-svg)
 
----
+### 📫 Connect with Me
+[![Email](https://img.shields.io/badge/-Edu%20Email-4285F4?style=flat&logo=googlescholar&logoColor=white)](mailto:xwang3234@garech.edu)
+[![Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:scyxw5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xi-wang-432293210)
 
 ### 🛠️ Tech Stack
 
@@ -17,9 +20,3 @@
 
 ### 📊 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats-flax-nine.vercel.app?user=xxiixi&theme=ocean-gradient&hide_border=true&border_radius=10&card_width=585&card_height=180)](https://git.io/streak-stats)
-
-### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/-Edu%20Email-4285F4?style=flat&logo=googlescholar&logoColor=white)](mailto:xwang3234@garech.edu)
-[![Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:scyxw5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xi-wang-432293210)
-
