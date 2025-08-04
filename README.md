@@ -8,10 +8,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 <img src="assets/yiji_fight.GIF" width="50">
 
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-Edu%20Email-4285F4?style=flat&logo=googlescholar&logoColor=white)](mailto:xwang3234@garech.edu)
 [![Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:scyxw5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xi-wang-432293210)
