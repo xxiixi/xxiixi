@@ -11,5 +11,4 @@
 <img src="assets/yiji_fight.GIF" width="50">
 
 ### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/-Edu%20Email-4285F4?style=flat&logo=googlescholar&logoColor=white)](mailto:xwang3234@garech.edu)
 [![Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:scyxw5@gmail.com)
