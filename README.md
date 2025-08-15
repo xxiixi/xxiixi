@@ -12,7 +12,3 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 <img src="assets/yiji_fight.GIF" width="50">
-
-### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/-Personal%20Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:scyxw5@gmail.com)
-
