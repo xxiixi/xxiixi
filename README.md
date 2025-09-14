@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tapestry&size=25&pause=500&color=7356FF&width=700&height=70&lines=Hi+there%2C+I+am+Cecilia+from+China;A+CS+Master's+student+%40Georgia+Tech)](https://git.io/typing-svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=xxiixi&theme=ambient-gradient&hide_border=true&border_radius=10&card_width=600)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fugaz+One&size=25&duration=4000&pause=1000&color=D7B400&width=500&lines=Hi+there%2C+I+am+Cecilia+from+China.;A+CS+Master's+Student+%40Georgia+Tech.)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=xxiixi&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 
 ### 🛠️ Tech Stack
