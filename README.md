@@ -2,7 +2,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=xxiixi&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-
 ### 🛠️ Tech Stack
 <img src="assets/8_fight.GIF" width="50">![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -11,3 +10,5 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 <img src="assets/yiji_fight.GIF" width="50">
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact" />
