@@ -11,4 +11,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 <img src="assets/yiji_fight.GIF" width="50">
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact" />
+![GitHub Stats](https://pixel-profile-11u1amn9i-cecilia-web-x.vercel.app/api/github-stats?username=xxiixi&theme=crt)
