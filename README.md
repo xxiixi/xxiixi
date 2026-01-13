@@ -2,10 +2,10 @@
 
 ### 💙 About Me
 
-- 🧑‍💻 Frontend Developer
-- 📌 Hangzhou, China
-- 🛠 Web Frontend Development
-- 🌱 Always learning
+- Frontend Developer
+- Hangzhou, China
+- Web Frontend Development
+- Always learning
 - 🎮 Games · 🎵 Music
 
 ### 🩵 Tech Stack
