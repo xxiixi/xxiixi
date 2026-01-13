@@ -1,8 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fugaz+One&size=25&duration=4000&pause=1000&color=D7B400&width=500&lines=Hi+there%2C+I+am+Cecilia+from+China.;A+CS+Master's+student+%40Georgia+Tech.)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xxiixi&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+### 💙 About Me
 
-### 🛠️ Tech Stack
+- 🧑‍💻 Frontend Developer
+- 📌 Hangzhou, China
+- 🛠 Web Frontend Development
+- 🌱 Always learning
+- 🎮 Games · 🎵 Music
+
+### 🩵 Tech Stack
 <img src="assets/8_fight.GIF" width="50">![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -11,4 +17,3 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 <img src="assets/yiji_fight.GIF" width="50">
 
-![Visitor Count](https://profile-counter.glitch.me/xxiixi/count.svg)
